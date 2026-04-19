@@ -22,4 +22,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: shanjiangac/store-service-bestbuy:v1
+        tags: shanjiangac/order-service-bestbuy:v1
